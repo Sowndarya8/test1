@@ -1,3 +1,4 @@
+//class
 public with sharing class Sample {
     
     //adding two number
